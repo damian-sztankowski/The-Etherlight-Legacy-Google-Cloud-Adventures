@@ -25,20 +25,12 @@
 
 ---
 
-## 📖 Read the Book
-
-Each chapter lives in the [`/book`](./book) directory and can be read directly in GitHub or downloaded in a compiled format.
-
-> **Tip:** Start with [Chapter 1 – The Oath of Glass](./book/chapter-1.md) to enter the Realm of Etherlight.
-
----
-
 ## 📥 Download the eBook
 
 You can download a beautifully formatted version of the full eBook in the following formats:
 
-- [📘 Etherlight Legacy – PDF](./dist/etherlight-legacy.pdf)
-- [📗 Etherlight Legacy – EPUB](./dist/etherlight-legacy.epub)
+- [📘 Etherlight Legacy – PDF]([./dist/etherlight-legacy.pdf](https://github.com/damian-sztankowski/The-Etherlight-Legacy-Google-Cloud-Adventures/releases/tag/v1.3pdf))
+- [📗 Etherlight Legacy – EPUB]() <- In progress
 
 We recommend using the PDF version for the full illustrated experience.
 
