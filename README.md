@@ -66,10 +66,6 @@ etherlight-legacy/
 │   ├── chapter-1/
 │   └── chapter-2/
 │
-├── dist/             # 📥 PDF, EPUB, and other compiled formats
-│   ├── etherlight-legacy.pdf
-│   └── etherlight-legacy.epub
-│
 ├── README.md         # 🗂️ Project overview (this file)
 ├── LICENSE           # 📘 Creative Commons BY-NC-SA 4.0 License
 └── .gitignore        # 🚫 Standard Git ignore file
