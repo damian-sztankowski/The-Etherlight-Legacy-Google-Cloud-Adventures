@@ -1,5 +1,20 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-[![Made with ♥ and AI](https://img.shields.io/badge/Made%20with-%E2%99%A5%20and%20AI-ff69b4.svg)](https://github.com/yourusername/etherlight-legacy)
+<h1 align="center">🌌 The Etherlight Legacy</h1>
+
+<p align="center"><i>A fantasy-themed journey through Google Cloud</i></p>
+
+<p align="center">
+  <img src="./visuals/The%20Etherlight%20Legacy%20Google%20Cloud%20Adventures%20-%20Cover.png" alt="Book Cover" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg" alt="License"/>
+  </a>
+  <a href="https://github.com/yourusername/etherlight-legacy">
+    <img src="https://img.shields.io/badge/Made%20with-%E2%99%A5%20and%20AI-ff69b4.svg" alt="Made with Love and AI"/>
+  </a>
+</p>
+
 
 
 # 🌌 The Etherlight Legacy
