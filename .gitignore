@@ -1,0 +1,37 @@
+# Ignore system and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Ignore Python artifacts (if you use scripts/)
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore build outputs
+/dist/*
+!dist/etherlight-legacy.pdf
+!dist/etherlight-legacy.epub
+
+# Ignore temporary Markdown/compilation files
+*.log
+*.aux
+*.out
+*.toc
+
+# Ignore node_modules if using a frontend or static site builder
+node_modules/
+
+# Ignore generated HTML (if applicable)
+site/
+build/
+
+# Ignore virtual environments
+.env
+.venv
+
+# Ignore generated image thumbnails or exports
+visuals/**/thumbnails/
+visuals/**/exports/
+``
