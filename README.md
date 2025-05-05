@@ -1,3 +1,7 @@
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Made with ♥ and AI](https://img.shields.io/badge/Made%20with-%E2%99%A5%20and%20AI-ff69b4.svg)](https://github.com/yourusername/etherlight-legacy)
+
+
 # 🌌 The Etherlight Legacy
 
 *A fantasy-inspired narrative that transforms the world of cloud computing into an epic journey through realms, guilds, and ancient magic.*
@@ -39,17 +43,30 @@ Through metaphor, illustration, and character-driven storytelling, this book wil
 ---
 
 ## 🧰 Structure of the Repository
-
+<pre>
 etherlight-legacy/
 │
-├── book/ # Chapters in Markdown format
-├── glossary/ # Fantasy-to-technical mappings per chapter
-├── visuals/ # Hand-drawn and AI-generated illustrations
-├── dist/ # PDF, EPUB, and other compiled formats
-├── scripts/ # (Optional) Book export or build helpers
-├── README.md # You are here
-├── LICENSE # Creative Commons for content
-└── .gitignore
+├── book/             # 📖 Chapters in Markdown format
+│   ├── chapter-1.md
+│   ├── chapter-2.md
+│   └── ...
+│
+├── glossary/         # 📜 Fantasy-to-technical mappings per chapter
+│   ├── chapter-1-glossary.md
+│   └── ...
+│
+├── visuals/          # 🎨 Hand-drawn and AI-generated illustrations
+│   ├── chapter-1/
+│   └── chapter-2/
+│
+├── dist/             # 📥 PDF, EPUB, and other compiled formats
+│   ├── etherlight-legacy.pdf
+│   └── etherlight-legacy.epub
+│
+├── README.md         # 🗂️ Project overview (this file)
+├── LICENSE           # 📘 Creative Commons BY-NC-SA 4.0 License
+└── .gitignore        # 🚫 Standard Git ignore file
+</pre>
 
 
 ---
