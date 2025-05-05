@@ -2,16 +2,43 @@
 
 Below is a guide to help translate the fantasy elements of **The Etherlight Legacy – Chapter 2** into real-world technology concepts.
 
-| Fantasy Term             | Real-World Concept                                  | Description                                                                 |
-|--------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------|
-| Aetherstream             | Data pipelines / streaming services                 | The continuous flow of knowledge that moves through the cloud realms.       |
-| The Vault of Echoes      | Cloud Storage / Data Lakes                          | An ancient archive that stores the whispers of ages past — raw data.        |
-| Insight Scribes          | Data Analysts / BI Tools (e.g., Looker)             | Specialists who draw meaning and stories from numbers and patterns.         |
-| Mirror of Queries        | BigQuery                                            | A magical mirror that responds with insight when questioned correctly.      |
-| Rune of Catalogs         | Data Catalog                                        | An enchanted ledger indexing every scroll and relic in the vault.           |
-| The Fog of Misform       | Dirty / Unstructured Data                           | A blight upon the realm that clouds true vision and misleads the wise.      |
-| Harmonists               | Data Governance / Classification tools              | Keepers who label, secure, and ensure balance within the Aetherstream.      |
+| Fantasy Term               | Real-World Concept                                 | Description                                                                 |
+|----------------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
+| Whispering Spires          | Analytics / Data domain                            | Remote mountain sanctum where the ancient art of data weaving is preserved. |
+| The Grand Archives         | Data warehouses / Data storage (structured + unstructured) | Endless library of scrolls, starlit tablets, and relics pulsing with dormant truths. |
+| Structured Vaults          | Structured data (e.g., databases)                  | Precise, catalogued halls of predictable information.                       |
+| The Lakes of Etherlight    | Data lakes / Unstructured data                     | Deep pools of raw, unshaped memory and potential.                           |
+| The Pinnacle of Knowledge  | BigQuery / Data warehouses                         | Crystal towers radiating refined insight.                                   |
+
+### 🧠 Constructs of Knowledge
+
+| Relic Name                  | Real-World Service      |
+|----------------------------|-------------------------|
+| Ledger of Echoes           | Cloud SQL               |
+| Timelocked Loom            | Cloud Spanner           |
+| Scroll of Countless Threads| Cloud Bigtable          |
+| Flame Archive              | Firestore               |
+| Mirror of All Knowing      | BigQuery                |
+| Ever-Vault                 | Cloud Storage           |
+
+### 🧊 Elemental Shards – Storage Classes
+
+| Shard Type   | Real-World Concept        |
+|--------------|---------------------------|
+| Standard     | Hot storage               |
+| Nearline     | Medium-frequency access   |
+| Coldline     | Rare access               |
+| Archive      | Long-term archiving       |
+
+### 🔭 Observatory of Insight
+
+| Artifact                      | Real-World Concept            |
+|------------------------------|-------------------------------|
+| Lens of Clarity              | Looker                        |
+| Mirror of All Knowing + Lens| BigQuery + Looker             |
+| Flow Pool                    | Streaming analytics           |
+| Runners and Rivers           | Pub/Sub + Dataflow            |
 
 ---
 
-> ✨ *As Etherlight pulses through the vaults and mirrors, so too does understanding unfold for those who ask the right questions.*
+> ✨ *To master the weave of data is to understand not just what is known, but how it is seen, stored, and summoned.*
