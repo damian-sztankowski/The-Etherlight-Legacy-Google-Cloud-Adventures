@@ -2,16 +2,31 @@
 
 Below is a guide to help translate the fantasy elements of **The Etherlight Legacy – Chapter 4** into real-world technology concepts.
 
-| Fantasy Term             | Real-World Concept                                  | Description                                                                 |
-|--------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------|
-| Embercall                | Serverless functions (e.g., Cloud Functions)        | A spark of magic that activates instantly upon need, leaving no trace behind.|
-| Forgebound Constructs    | Containerized applications (e.g., Cloud Run)        | Pre-forged spells bound in form, summoned on demand across realms.          |
-| Golem of Gales           | Managed infrastructure (e.g., App Engine)           | A silent colossus that scales with the storm, handling needs without command.|
-| Ritual of Rebuild        | CI/CD pipelines                                     | The sacred rite that ensures code evolves safely and is summoned cleanly.   |
-| Mantle of Statelessness | Stateless compute design                            | A cloak that allows entities to act without memory of past actions.         |
-| Cradle of Invocation     | Event-driven architecture                           | A sacred cradle where spells are cast when conditions in the realm change.  |
-| The Nullblight           | Cold starts / Latency on demand-triggered systems   | A shadow that delays the first spark of summoned power.                     |
+| Fantasy Term               | Real-World Concept                                 | Description                                                                 |
+|----------------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
+| The Codex of Shifting Stone | Cloud migration strategies                        | A legendary artifact of transformation, holding the Seven Paths (retain, retire, rehost, replatform, refactor, reimagine). |
+| Golems of Glass            | Virtual Machines (VMs)                             | Towering, legacy-bound constructs summoned to carry full environments.     |
+| Core Engine Codex          | Google Compute Engine                              | The spellbook used to provision Golems of Glass.                           |
+| Spellboxes                 | Containers                                         | Portable, self-contained ritual containers that house modular logic.       |
+| Swarmweaver                | Microservices architecture                         | An enchanted loom that orchestrates many Spellboxes into a unified system. |
+
+### ✨ Whisper Invocations – Serverless Spells
+
+| Invocation Name         | Real-World Service         |
+|-------------------------|----------------------------|
+| Whisperforge            | Cloud Functions            |
+| Loom of Echofire        | App Engine                 |
+| Runeblade Vessel        | Cloud Run                  |
+
+| Fantasy Term            | Real-World Concept                                  | Description                                                                 |
+|-------------------------|-----------------------------------------------------|-----------------------------------------------------------------------------|
+| Whisper Invocations     | Serverless computing                                | Spells summoned only when needed — vanishing after use.                     |
+| Fleeting Sparks         | Preemptible VMs                                     | Momentary conjurations used for burst power or short-lived tasks.           |
+| Scalebinders            | Autoscaling and Load Balancing                      | Invisible, reactive forces that balance workloads and scale resources.      |
+| Scrollbind Archive      | APIs                                                | The repository of living contracts — the arcane agreements between systems. |
+| Gatewarden of Sigils    | Apigee (API Management)                             | The guardian and manager of exposed spell-contracts.                        |
+| The Prism of Realms     | Anthos (Hybrid and Multicloud Management)           | A radiant glyph-wheel that oversees and unifies all cloud kingdoms.         |
 
 ---
 
-> ✨ *In the Forge of Innovation, the true wizard conjures power not from servers, but from intent.*
+> ✨ *To shape a modern realm, one must first unbind the stone of legacy and command the spellwork of the ephemeral.*
