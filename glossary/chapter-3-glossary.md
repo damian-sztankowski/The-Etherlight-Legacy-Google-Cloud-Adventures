@@ -2,16 +2,23 @@
 
 Below is a guide to help translate the fantasy elements of **The Etherlight Legacy – Chapter 3** into real-world technology concepts.
 
-| Fantasy Term             | Real-World Concept                                      | Description                                                                 |
-|--------------------------|---------------------------------------------------------|-----------------------------------------------------------------------------|
-| Scrolls of Truth         | Structured data / Databases                             | Precisely written tomes that hold immutable facts and trusted knowledge.    |
-| Shardbound Archives       | Relational databases (e.g., Cloud SQL, Spanner)         | Vaults that store scrolls in ordered shards for quick retrieval.            |
-| Whisperleaf Ledger        | NoSQL / Document stores (e.g., Firestore)              | Magical leaves where tales (documents) are inscribed and easily reshaped.   |
-| Query Mages              | SQL developers / Data engineers                         | Artisans who craft powerful requests to summon knowledge from the void.     |
-| The Temple of Schema     | Data schemas and modeling practices                     | Sacred laws defining what shape scrolls must take to be readable.           |
-| Ink of Mutation          | Mutable data / Schema-less systems                      | Dangerous yet powerful technique to rewrite knowledge mid-flight.           |
-| The Immutable Vault      | Immutable data storage / Append-only logs              | A sacred space where knowledge can only be added, never changed or erased.  |
+| Fantasy Term               | Real-World Concept                                 | Description                                                                 |
+|----------------------------|----------------------------------------------------|-----------------------------------------------------------------------------|
+| Innovator’s Keep           | AI/ML innovation and compute concepts              | Citadel of advanced magic, automation, and machine-woven wisdom.           |
+| Automata                   | AI/ML-powered models and intelligent systems       | Constructs imbued with adaptive thought, evolving through learning.        |
+| The Golem’s Puzzle         | ML's ability to solve dynamic, complex problems    | A shifting challenge only solvable by learning constructs.                 |
+| The Forge of Insight       | ML at scale / Applied ML                           | Arcane crucible where raw data is melted and reforged into actionable wisdom. |
+| The Scroll of Precision    | Responsible AI / Explainability / Data quality     | Ancient artifact teaching the cost of flawed data and the ethics of AI.    |
+
+### 🧠 Tools of the Mind
+
+| Artifact                    | Real-World Concept                                |
+|-----------------------------|---------------------------------------------------|
+| Mind’s Eye                  | TensorFlow / Neural diagnostic tools              | Floating interface to visualize the neural structures of constructs.       |
+| Sigil of Clarity / Eye of Logic | Model debugging / Explainability / Bias detection | Magical tools for tracing error, bias, and failure in intelligence systems.|
+| Cradle of Cognition         | Model training engine / Core parameters           | The heart of an Automaton where learning patterns are rooted.              |
+| Stabilis Nova               | Safer or revised ML model architecture            | A stabilized algorithm balancing power and control.                        |
 
 ---
 
-> ✨ *Only those fluent in the tongues of schema and silence may unlock the secrets etched into the Scrolls of Truth.*
+> ✨ *When constructs learn from the weave of data, their insight shapes not just prediction, but the very course of the realm.*
